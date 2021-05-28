@@ -9,6 +9,8 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio code" width="22px" src="https://github.com/Prernn/Prernn/blob/6aa28d73816a6d1b0a7946fe73eef7999b782f19/logos/visualStudioCode.png"/>
+<img align="left" alt="Visual Studio code" width="22px" src="https://github.com/Prernn/Prernn/blob/2f8d671674e74b2bc8fa382d8d7f520fc0083c2c/logos/vscode.png"/>
+
+<br> <br> <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prernn&show_icons=true&locale=en" alt="prernn" /></p>
-[vs]:https://code.visualstudio.com/
+
