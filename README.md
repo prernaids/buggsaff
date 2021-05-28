@@ -29,7 +29,6 @@
 <img align="left" alt="metamask" width="25px" src="https://github.com/Prernn/Prernn/blob/b62317745022d7719330b4e521682a82cd9bbde1/logos/metamask.png"/>
 
 <br> <br> <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prernn&show_icons=true&locale=en" alt="prernn" /></p>
 
 <br>
 
