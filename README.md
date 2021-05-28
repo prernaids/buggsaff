@@ -7,6 +7,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like to play piano
 
+### Languages and Tools:
 
 <!--<img align="left" alt="Prerna's linkdin" width="22px" src=-->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prernn&show_icons=true&locale=en" alt="prernn" /></p>
