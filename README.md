@@ -29,3 +29,15 @@
 <br> <br> <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prernn&show_icons=true&locale=en" alt="prernn" /></p>
 
+<br>
+
+### Connect with me:
+
+[<img align="left" alt="linkdin" width="26px" src="https://github.com/Prernn/Prernn/blob/64c3da59dcd1807b261bbb11dda915a827d73271/logos/linkden.png"/>][linkdin]
+[<img align="left" alt="twitter" width="34px" src="https://github.com/Prernn/Prernn/blob/64c3da59dcd1807b261bbb11dda915a827d73271/logos/twitter.png"/>][twitter]
+[<img align="left" alt="instagram" width="26px" src="https://github.com/Prernn/Prernn/blob/64c3da59dcd1807b261bbb11dda915a827d73271/logos/instagram.jpg"/>][insta]
+
+[linkdin]: https://www.linkedin.com/in/prernadhiman
+[twitter]: https://twitter.com/PrernaDhiman5
+[insta]: https://www.instagram.com/prernn_n
+
