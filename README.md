@@ -30,6 +30,7 @@
 
 <br> <br> <br>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prernn&show_icons=true&locale=en" alt="prern" /></p>
 <br>
 
 ### Connect with me:
