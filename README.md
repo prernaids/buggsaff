@@ -4,7 +4,7 @@
 <br>
 
 - 🔭 I’m currently working on a Etherium DApp
-- 🌱 I’m currently learning Reactjs
+- 🌱 I’m currently learning js
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like to play piano
 
