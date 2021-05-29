@@ -24,7 +24,6 @@
 <img align="left" alt="ganache" width="25px" src="https://github.com/Prernn/Prernn/blob/f730de36298afccfc5c15a86374eab9ef6ec8992/logos/ganache.png"/>
 <img align="left" alt="truffle" width="27px" src="https://github.com/Prernn/Prernn/blob/f730de36298afccfc5c15a86374eab9ef6ec8992/logos/truffle.png"/>
 <img align="left" alt="solidity" width="20px" src="https://github.com/Prernn/Prernn/blob/b62317745022d7719330b4e521682a82cd9bbde1/logos/solidity.png"/>
-<img align="left" alt="reactjs" width="35px" src="https://github.com/Prernn/Prernn/blob/b62317745022d7719330b4e521682a82cd9bbde1/logos/reactjs.png"/>
 <img align="left" alt="web3" width="26px" src="https://github.com/Prernn/Prernn/blob/b62317745022d7719330b4e521682a82cd9bbde1/logos/web3.png"/>
 <img align="left" alt="metamask" width="25px" src="https://github.com/Prernn/Prernn/blob/b62317745022d7719330b4e521682a82cd9bbde1/logos/metamask.png"/>
 
