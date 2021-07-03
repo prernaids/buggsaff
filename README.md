@@ -35,9 +35,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="linkdin" width="26px" src="https://github.com/Prernn/Prernn/blob/64c3da59dcd1807b261bbb11dda915a827d73271/logos/linkden.png"/>][linkdin]
-[<img align="left" alt="twitter" width="34px" src="https://github.com/Prernn/Prernn/blob/64c3da59dcd1807b261bbb11dda915a827d73271/logos/twitter.png"/>][twitter]
-[<img align="left" alt="instagram" width="26px" src="https://github.com/Prernn/Prernn/blob/64c3da59dcd1807b261bbb11dda915a827d73271/logos/instagram.jpg"/>][insta]
+[<img align="left" alt="linkdin" width="26px" src="https://github.com/Prernn/Prernn/blob/d5e2aadf254baafd097ac6b93f0f35346eadf883/logos/ln-logo.png"/>][linkdin]
+[<img align="left" alt="twitter" width="32px" height="30px" src="https://github.com/Prernn/Prernn/blob/d5e2aadf254baafd097ac6b93f0f35346eadf883/logos/twitter-logo.png"/>][twitter]
+[<img align="left" alt="instagram" width="26px" src="https://github.com/Prernn/Prernn/blob/d5e2aadf254baafd097ac6b93f0f35346eadf883/logos/insta-logo.png"/>][insta]
 
 [linkdin]: https://www.linkedin.com/in/prernadhiman
 [twitter]: https://twitter.com/PrernaDhiman5
