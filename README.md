@@ -3,7 +3,7 @@
 ### Hi there, I'm Prerna Dhiman 👋
 <br>
 
-- 🔭 I’m currently working on javascript projects
+- 🔭 I’m currently working on javascript project
 - 🌱 I’m currently learning css drawings
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like to play piano
