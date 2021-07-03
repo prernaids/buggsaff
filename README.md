@@ -3,8 +3,8 @@
 ### Hi there, I'm Prerna Dhiman 👋
 <br>
 
-- 🔭 I’m currently working on a Etherium DApp
-- 🌱 I’m currently learning js
+- 🔭 I’m currently working on css drawings
+- 🌱 I’m currently learning 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like to play piano
 
