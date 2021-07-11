@@ -1,6 +1,6 @@
 <br>
 
-### Hi there, I'm Prerna Dhiman 👋
+### Hi there, I'm Prerna Dhiman 🐱‍🐉
 <br>
 
 <!--🌱 I’m currently learning css drawings-->
