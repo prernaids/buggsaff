@@ -26,7 +26,7 @@
 <img align="left" alt="web3" width="35px" height="40px" src="https://github.com/Prernn/Prernn/blob/b62317745022d7719330b4e521682a82cd9bbde1/logos/web3.png"/>
 <img align="left" alt="metamask" width="40px" src="https://github.com/Prernn/Prernn/blob/b62317745022d7719330b4e521682a82cd9bbde1/logos/metamask.png"/>
 
-<br> <br> <br>
+<br> <br> <br> <br> 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prernn&show_icons=true&theme=dark" alt="prern" /></p>
 
