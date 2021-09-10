@@ -9,6 +9,9 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like to play piano
 
+<br>
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=buggsaff)
 <br> 
 <!--
 ### Languages and Tools:
