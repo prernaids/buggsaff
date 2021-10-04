@@ -6,7 +6,7 @@
 <!--🌱 I’m currently learning css drawings-->
 - 🔭 I’m currently working on javascript project
 - 🌱 Reading cormen
-- 😄 Pronouns: she/her
+- 🤹‍♀️ Pronouns: she/her
 - ⚡ Fun fact: I like to play piano
 
 <br>
