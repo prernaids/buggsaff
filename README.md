@@ -1,18 +1,9 @@
 <br>
-
-### Hola, I'm Prerna Dhiman 🐱‍🐉
-<br>
-
-<!--🌱 I’m currently learning css drawings-->
-- 🔭 I’m currently working on solidity
-- 🌱 Reading cormen
-- 🤹‍♀️ Pronouns: she/her
-- ⚡ Fun fact: I like to play piano
-
-<br>
+<!-- 
+##### Blank
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=buggsaff)
-<br> 
+<br>  -->
 <!--
 ### Languages and Tools:
 
@@ -30,10 +21,10 @@
 <img align="left" alt="web3" width="35px" height="40px" src="https://github.com/Prernn/Prernn/blob/b62317745022d7719330b4e521682a82cd9bbde1/logos/web3.png"/>
 <img align="left" alt="metamask" width="40px" src="https://github.com/Prernn/Prernn/blob/b62317745022d7719330b4e521682a82cd9bbde1/logos/metamask.png"/>
 -->
-<br> 
+<!-- <br> 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=buggsaff&show_icons=true&theme=dark" alt="prern" /></p>
 
-
+<!-- 
 <br>
 
 ### Connect with me:
@@ -44,5 +35,5 @@
 
 [linkdin]: https://www.linkedin.com/in/prernadhiman
 [twitter]: https://twitter.com/PrernaDhiman5
-[insta]: https://www.instagram.com/prernn_n
+[insta]: https://www.instagram.com/buggsaf -->
 
